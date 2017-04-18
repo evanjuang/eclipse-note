@@ -1,11 +1,11 @@
-###Install
+### Install
 1. download link<br>
     `http://maven.apache.org/download.cgi`
 2. unzip to C:\Program Files\apache-maven-3.3.3
 3. add "C:\Program Files\apache-maven-3.3.3\bin" to PATH
 4. execute `mvn -ver` to check
 
-###Setting
+### Setting
 * global config file: `%M2_HOME%/conf/settings.xml`
 * user config file: `${user.home}/.m2/settings.xml`
 * local repository: `${user.home}/.m2/repository`
