@@ -2,4 +2,5 @@
 Setting up eclipse environment
 
 * [General Setting](./General.md)
-* [Aptana Studio](./Aptana.md)
+* [Setup Maven](./maven-setting.md)
+
