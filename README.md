@@ -6,4 +6,4 @@ Setup eclipse environment
 
 Workspace sync
 * Extract eclipse_pref.zip
-* Overwrite workspace settings ({workspace}/.metadata/.plugins)
+* Overwrite workspace settings `{workspace}/.metadata/.plugins`
