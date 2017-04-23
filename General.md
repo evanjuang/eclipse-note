@@ -29,7 +29,7 @@
         _Displayed tab width_ : 4 <br>
         _Insert spaces for tabs_ <br>
     3. Java -> Editor -> Typing <br>
-        _Enter key adjusts the indentation on the new line_
+        Unselected _Enter key adjusts the indentation on the new line_
 * __Auto Complete__ <br>
     Java > Editor > Content Assist > Enable auto-activation <br>
     _Auto activation delay_ : 0ms <br>
