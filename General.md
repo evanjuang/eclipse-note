@@ -2,7 +2,7 @@
 * __Babel Language Pack__
     1. Get repository link in [babel](http://www.eclipse.org/babel/downloads.php)<br>
         mars: `http://download.eclipse.org/technology/babel/update-site/R0.13.1/mars` <br>
-        neon: `http://download.eclipse.org/technology/babel/update-site/R0.14.1/neon`
+        neon: `http://download.eclipse.org/technology/babel/update-site/R0.15.0/neon`
     2. Install:<br>
         _Babel Language Pack in Chinese (Traditional)_ <br>
         _Babel Language Pack for eclipse in Chinese (Traditional)(81.33%)_
